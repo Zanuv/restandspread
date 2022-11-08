@@ -6,3 +6,4 @@ function filterOutOdds() {
     return num % 2 === 0;
   });
 }
+function test() {}
